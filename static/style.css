@@ -1,0 +1,12 @@
+html {
+  -webkit-print-color-adjust: exact;
+}
+
+@page {
+  size: A4 portrait;
+  margin: 20mm 12mm;
+}
+
+body {
+  width: 210mm;
+}
